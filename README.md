@@ -1,3 +1,3 @@
 # Demo
 
-SOme decription!
+Some decription!
